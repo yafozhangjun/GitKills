@@ -1,1 +1,6 @@
-git分支学习@ simple
+<<<<<<< HEAD
+git分支学习
+=======
+git分支学习
+Crateing a new branch is quick And simple
+>>>>>>> feature1
