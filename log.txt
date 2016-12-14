@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 git分支学习
 =======
-git分支学习
+git分支学习新建分支修复bug
 Crateing a new branch is quick And simple
 >>>>>>> feature1
 git --no-ff模式的练习
