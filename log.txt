@@ -5,3 +5,5 @@ git分支学习
 Crateing a new branch is quick And simple
 >>>>>>> feature1
 git --no-ff模式的练习
+
+用户2 对log文件的修改
